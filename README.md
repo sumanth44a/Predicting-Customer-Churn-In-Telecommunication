@@ -1,5 +1,6 @@
 ## Predicting-Customer-Churn-In-Telecommunication
-![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/87ce11ee-b898-4cc9-86c8-f75117823766)
+![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/9de5bb8f-6254-480e-9dbb-7585425e2a3c)
+
 
 ## Objective:
 The objective is to create a machine learning models like Decision Tree Random Forest and Naive Bayes for predicting customer churn in the telecommunications industry. By analyzing historical data, the goal is to forecast which customers are likely to discontinue services. This predictive capability enables proactive measures to retain at-risk customers, ultimately reducing churn rates and improving overall customer satisfaction.
@@ -24,20 +25,20 @@ The objective is to create a machine learning models like Decision Tree Random F
 ## Exploratory data analysis:
  - Checking Trends Between Target and other features:
    
-   - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/50d85542-190f-4764-b55c-d403aaffa1be)
-   - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/b75e6cbf-d6d2-4314-88b6-4cc2895ebfaf)
-   - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/51975fc8-d0a1-48d9-9460-693de564c3b7)
+   - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/ce6b80c3-e6a9-49dd-8270-f5c8e3329c66)
+   - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/d6c09c16-1d9f-4134-9241-8f26a685c725)
 
 ## Results:
   - Confusion Matrix of Decision Tree:
-  - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/03f67206-4199-4405-a90b-2b54aa4eaaa3)
+  - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/6c34cc53-1131-4759-b90c-358e948dce9f)
 
   - Confusion Matrix of Naive Bayes:
-  - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/33d6ba9e-b754-4e03-b423-c213d7d5a3c0)
+  - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/14a70acd-c5a6-4d8f-8dfc-461e89cb03d2)
 
   - Confusion Matrix of Random Forest:
-  - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/20b52c31-1036-47b1-ad1f-b59127ce884e)
+  - ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/ff00bf2b-b99e-49d1-b865-e699e3635c60)
     
     
 ## Conclusion:
-  ![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/f1199580-66b1-4bc2-82bf-1219cb8237d5)
+![image](https://github.com/sumanth44a/Predicting-Customer-Churn-In-Telecommunication/assets/114097800/9472b715-62c2-43cf-bdca-41d15d0dc886)
+
